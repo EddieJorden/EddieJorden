@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddieJorden
-- 👀 I’m interested in Car racing, Coding, friends and family
-- 🌱 I’m currently learning Redux
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in Car racing, music, coding and much more
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to build custom software for companies big and small
 - 📫 How to reach me eddie@eddiejorden.tech
 
 <!---

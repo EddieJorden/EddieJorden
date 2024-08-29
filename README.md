@@ -8,7 +8,7 @@ I specialize in building scalable and performant web applications, with a focus 
 
 ## 🚀 What I'm passionate about
 
-Aside from coding, I'm an avid road racer, with a passion for cars and motorcycles. I'm also interested in AI and enjoy reading about math and science.
+Aside from coding, I'm an avid road racer, with a passion for cars and motorcycles. I'm also interested in AI and enjoy math and science.
 
 ## 📫 How to reach me
 

@@ -4,7 +4,7 @@
 
 ### Entrepreneur • Full-Stack Developer • Racing Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=600&lines=15%2B+Years+Building+Businesses;Full-Stack+Developer;55%2B+Technologies+Mastered;Building+Exceptional+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=600&lines=20%2B+Years+Building+Businesses;Full-Stack+Developer;55%2B+Technologies+Mastered;Building+Exceptional+Software" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eddiemoger.com-0096ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eddiemoger.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eddie--moger-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddie-moger/)
@@ -115,7 +115,7 @@ Fully functional Reddit clone using the official Reddit API with state managemen
 ## �� Highlights
 
 - �� **69 Public Repositories** - Open source contributions and projects
-- �� **15+ Years Experience** - Business owner turned full-stack developer
+- �� **20+ Years Experience** - Business owner turned full-stack developer
 - �� **55+ Technologies** - Constantly learning and adapting
 - �� **11+ Projects Delivered** - Production-grade applications
 - �� **Racing Enthusiast** - Cars, motorcycles, and Nürburgring laps

@@ -17,13 +17,13 @@
 
 ## �� About Me
 
-From **corporate leadership** to founding **multiple startups** to writing **production code** — I bring the perspective most developers don't have. Business-minded problem solver with 15+ years of entrepreneurial experience, now building exceptional full-stack applications.
+From **corporate leadership** to founding **multiple startups** to writing **production code** — I bring the perspective most developers don't have. Business-minded problem solver with 20+ years of entrepreneurial experience, now building exceptional full-stack applications.
 
 ```typescript
 const eddie = {
   location: "Silicon Valley, CA",
   role: "Full-Stack Developer",
-  experience: "15+ years in business, full-stack development",
+  experience: "20+ years in business, full-stack development",
   passion: ["Building scalable apps", "Racing (cars & bikes)", "AI & automation"],
   currentFocus: "Creating production-grade React + TypeScript applications",
   philosophy: "Code that solves real business problems"

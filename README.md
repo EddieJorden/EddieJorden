@@ -15,7 +15,7 @@
 
 ---
 
-## �� About Me
+## 🚀 About Me
 
 From **corporate leadership** to founding **multiple startups** to writing **production code** — I bring the perspective most developers don't have. Business-minded problem solver with 20+ years of entrepreneurial experience, now building exceptional full-stack applications.
 
@@ -30,7 +30,7 @@ const eddie = {
 };
 ```
 
-## �� Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,7 +48,7 @@ const eddie = {
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -71,7 +71,7 @@ const eddie = {
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -83,52 +83,52 @@ const eddie = {
 
 </div>
 
-## �� Featured Projects
+## 🎯 Featured Projects
 
-### �� [Modern Portfolio](https://eddiemoger.com)
+### 🌟 [Modern Portfolio](https://eddiemoger.com)
 **React • TypeScript • Framer Motion • Styled Components**
 
 Multi-page portfolio with racing-inspired animations, glassmorphism effects, and modern UI/UX. Features contact form, Google Calendar integration, and 55+ technology showcase.
 
-### �� [Full-Stack Task Manager](https://eddies-balance-app.netlify.app/)
+### 📊 [Full-Stack Task Manager](https://eddies-balance-app.netlify.app/)
 **React • Redux • TypeScript • Node.js • Express • MySQL**
 
 Complete task management application with user authentication, CRUD operations, and real-time updates. Demonstrates full-stack architecture and state management.
 
-### �� [Data Visualization Dashboard](https://eddiejorden.github.io/ui-ux-project/)
+### 📈 [Data Visualization Dashboard](https://eddiejorden.github.io/ui-ux-project/)
 **React • Redux • D3.js • Express**
 
 Interactive data visualization component displaying complex data in intuitive visual formats. Built with modern React patterns and D3.js.
 
-### �� [Spotify Playlist Manager](https://eddiejorden.github.io/my-jams)
+### 🎵 [Spotify Playlist Manager](https://eddiejorden.github.io/my-jams)
 **React • Spotify API • OAuth**
 
 Create and manage Spotify playlists with search functionality and OAuth authentication.
 
-### �� [Reddit Clone](https://eddiejorden.github.io/reddit-clone/)
+### 🔍 [Reddit Clone](https://eddiejorden.github.io/reddit-clone/)
 **React • Redux • Reddit API**
 
 Fully functional Reddit clone using the official Reddit API with state management and API integration.
 
 [**View All 69+ Repositories →**](https://github.com/EddieJorden?tab=repositories)
 
-## �� Highlights
+## 🏆 Highlights
 
-- �� **69 Public Repositories** - Open source contributions and projects
-- �� **20+ Years Experience** - Business owner turned full-stack developer
-- �� **55+ Technologies** - Constantly learning and adapting
-- �� **11+ Projects Delivered** - Production-grade applications
-- �� **Racing Enthusiast** - Cars, motorcycles, and Nürburgring laps
+- 📦 **69 Public Repositories** - Open source contributions and projects
+- 💼 **20+ Years Experience** - Business owner turned full-stack developer
+- 🚀 **55+ Technologies** - Constantly learning and adapting
+- 🎯 **11+ Projects Delivered** - Production-grade applications
+- 🏁 **Racing Enthusiast** - Cars, motorcycles, and Nürburgring laps
 
-## �� What I'm Working On
+## 💡 What I'm Working On
 
-- �� Building production CRM systems with Next.js and Supabase
-- �� Crafting pixel-perfect UI/UX with Framer Motion animations
-- �� Integrating AI/LLM capabilities into modern applications
-- �� Exploring browser extensions and automation tools
-- ��️ Balancing code with track days at Laguna Seca
+- 🔨 Building production CRM systems with Next.js and Supabase
+- 🎨 Crafting pixel-perfect UI/UX with Framer Motion animations
+- 🤖 Integrating AI/LLM capabilities into modern applications
+- 📚 Exploring browser extensions and automation tools
+- 🏎️ Balancing code with track days at Laguna Seca
 
-## �� Let's Connect
+## 📫 Let's Connect
 
 I'm always interested in working on exciting projects or discussing opportunities. Whether you need a full-stack developer, want to collaborate, or just chat about racing and code:
 
